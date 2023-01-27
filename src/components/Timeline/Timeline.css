@@ -1,0 +1,159 @@
+.TimeLineSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #0b1a29;
+    border-bottom: 2px solid #fafcfd;
+    width: 100%;
+    height: 100vh;
+    /* border: 2px solid rgb(42, 233, 17); */
+}
+
+.WarriorLeft {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-end;
+    width: 50%;
+    height: 100%;
+    /* border: 2px solid rgb(17, 233, 46); */
+}
+
+.WarriorLeft img {
+    display: flex;
+    width: 64%;
+}
+
+.roadmap {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;
+    width: 50%;
+    height: 100%;
+    /* border: 2px solid rgb(253, 1, 1); */
+}
+
+.timeline {
+    width: 350px;
+    color: #fff;
+    padding: 30px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.timeline ul {
+    list-style-type: none;
+    border-left: 2px solid #28a0f0;
+    padding: 10px 5px;
+}
+
+.timeline ul li {
+    padding: 20px 20px;
+    position: relative;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.timeline ul li span {
+    display: inline-block;
+    color: #28a0f0;
+    border-radius: 5px;
+    padding: 2px 5px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.timeline ul li .content h3 {
+    color: #34ace0;
+    font-size: 17px;
+    padding-top: 5px;
+}
+
+.timeline ul li .content p {
+    padding: 3px 0px 15px 0px;
+    font-size: 15px;
+}
+
+.timeline ul li:before {
+    position: absolute;
+    content: '';
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    left: -11px;
+    top: 28px;
+    transition: .5s;
+}
+
+.timeline ul li:hover {
+    /* background-color: #071f2a; */
+}
+
+.timeline ul li:hover:before {
+    background-color: #00ccff;
+    box-shadow: 0px 0px 20px 4px #00ccff;
+}
+
+@media screen and (max-width: 1024px) {
+    .TimeLineSection {
+        width: 100%;
+        height: 100%;
+    }
+    .WarriorLeft img {
+        display: flex;
+        width: 95%;
+    }
+  }
+
+
+@media screen and (max-width: 768px) {
+    .timeline {
+        margin-left: 0%;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .timeline {
+        margin-left: 30%;
+    }
+    .WarriorLeft img {
+        display: none;
+        width: 95%;
+    }
+    .roadmap {
+        width: 100%;
+    }
+    .WarriorLeft {
+        width: 0%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .timeline {
+        margin-left: 5%;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .timeline {
+        margin-left: 0%;
+        padding: 30px 2px;
+    }
+}
+
+@media (max-width:300px) {
+    .timeline {
+        width: 100%;
+        padding: 30px 5px 30px 10px;
+    }
+
+    .timeline ul li .content h3 {
+        color: #34ace0;
+        font-size: 15px;
+    }
+
+}
