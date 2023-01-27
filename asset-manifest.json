@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.com/LorKami/Aegis.git/static/css/main.f7907e99.css",
-    "main.js": "/github.com/LorKami/Aegis.git/static/js/main.e14b33d1.js",
-    "static/media/logo.png": "/github.com/LorKami/Aegis.git/static/media/logo.43c87130d62d0779dabe.png",
-    "static/media/hero.png": "/github.com/LorKami/Aegis.git/static/media/hero.a75697794210f5f36a8f.png",
-    "static/media/mausoleum.png": "/github.com/LorKami/Aegis.git/static/media/mausoleum.2c1a0482c824ab04136a.png",
-    "static/media/warrior.png": "/github.com/LorKami/Aegis.git/static/media/warrior.2dec99af80256f24c0b6.png",
-    "static/media/columns.png": "/github.com/LorKami/Aegis.git/static/media/columns.95c291898eaa9b4e16ad.png",
-    "static/media/telegram.png": "/github.com/LorKami/Aegis.git/static/media/telegram.b85b85c272453de94aca.png",
-    "static/media/waves.png": "/github.com/LorKami/Aegis.git/static/media/waves.9118b25c6bb70c71f30e.png",
-    "index.html": "/github.com/LorKami/Aegis.git/index.html",
-    "main.f7907e99.css.map": "/github.com/LorKami/Aegis.git/static/css/main.f7907e99.css.map",
-    "main.e14b33d1.js.map": "/github.com/LorKami/Aegis.git/static/js/main.e14b33d1.js.map"
+    "main.css": "/Aegis/static/css/main.c589bd9f.css",
+    "main.js": "/Aegis/static/js/main.29b472f6.js",
+    "static/media/logo.png": "/Aegis/static/media/logo.43c87130d62d0779dabe.png",
+    "static/media/hero.png": "/Aegis/static/media/hero.a75697794210f5f36a8f.png",
+    "static/media/mausoleum.png": "/Aegis/static/media/mausoleum.2c1a0482c824ab04136a.png",
+    "static/media/warrior.png": "/Aegis/static/media/warrior.2dec99af80256f24c0b6.png",
+    "static/media/columns.png": "/Aegis/static/media/columns.95c291898eaa9b4e16ad.png",
+    "static/media/telegram.png": "/Aegis/static/media/telegram.b85b85c272453de94aca.png",
+    "static/media/waves.png": "/Aegis/static/media/waves.9118b25c6bb70c71f30e.png",
+    "index.html": "/Aegis/index.html",
+    "main.c589bd9f.css.map": "/Aegis/static/css/main.c589bd9f.css.map",
+    "main.29b472f6.js.map": "/Aegis/static/js/main.29b472f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7907e99.css",
-    "static/js/main.e14b33d1.js"
+    "static/css/main.c589bd9f.css",
+    "static/js/main.29b472f6.js"
   ]
 }
