@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbb1fc03.css",
-    "main.js": "/static/js/main.08b36258.js",
-    "static/media/logo.png": "/static/media/logo.43c87130d62d0779dabe.png",
-    "static/media/hero.png": "/static/media/hero.a75697794210f5f36a8f.png",
-    "static/media/mausoleum.png": "/static/media/mausoleum.2c1a0482c824ab04136a.png",
-    "static/media/warrior.png": "/static/media/warrior.2dec99af80256f24c0b6.png",
-    "static/media/columns.png": "/static/media/columns.95c291898eaa9b4e16ad.png",
-    "static/media/telegram.png": "/static/media/telegram.b85b85c272453de94aca.png",
-    "static/media/waves.png": "/static/media/waves.9118b25c6bb70c71f30e.png",
-    "index.html": "/index.html",
-    "main.bbb1fc03.css.map": "/static/css/main.bbb1fc03.css.map",
-    "main.08b36258.js.map": "/static/js/main.08b36258.js.map"
+    "main.css": "/Aegis/static/css/main.0c3a0ce0.css",
+    "main.js": "/Aegis/static/js/main.64574a7a.js",
+    "static/media/logo.png": "/Aegis/static/media/logo.7dff82bc25cbfcbcad18.png",
+    "static/media/pandasale.png": "/Aegis/static/media/pandasale.4508b9769ec909fbd065.png",
+    "static/media/pandasale2.png": "/Aegis/static/media/pandasale2.6bc800a48c4da359c726.png",
+    "static/media/linesmoney.png": "/Aegis/static/media/linesmoney.f3fbca6235325561473f.png",
+    "static/media/hero.png": "/Aegis/static/media/hero.a75697794210f5f36a8f.png",
+    "static/media/Peasant.png": "/Aegis/static/media/Peasant.2f33cf5b53f3468b1cdb.png",
+    "static/media/mausoleum.png": "/Aegis/static/media/mausoleum.2c1a0482c824ab04136a.png",
+    "static/media/warrior.png": "/Aegis/static/media/warrior.2dec99af80256f24c0b6.png",
+    "static/media/columns.png": "/Aegis/static/media/columns.95c291898eaa9b4e16ad.png",
+    "static/media/telegram.png": "/Aegis/static/media/telegram.b85b85c272453de94aca.png",
+    "static/media/waves.png": "/Aegis/static/media/waves.9118b25c6bb70c71f30e.png",
+    "index.html": "/Aegis/index.html",
+    "main.0c3a0ce0.css.map": "/Aegis/static/css/main.0c3a0ce0.css.map",
+    "main.64574a7a.js.map": "/Aegis/static/js/main.64574a7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbb1fc03.css",
-    "static/js/main.08b36258.js"
+    "static/css/main.0c3a0ce0.css",
+    "static/js/main.64574a7a.js"
   ]
 }
